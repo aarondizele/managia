@@ -1,1 +1,3 @@
-# Column Server Application
+# Managia ERP
+
+FastAPI - Linode Storage - Websocket for Realtime
