@@ -1,3 +1,3 @@
 # Managia ERP
 
-FastAPI - Linode Storage - Websocket for Realtime
+FastAPI - Linode Storage - Websocket for Realtime - Docker
